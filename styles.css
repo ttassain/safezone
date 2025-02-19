@@ -1,0 +1,11 @@
+h1 {
+    color: #FF7900;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #FF7900;
+}
