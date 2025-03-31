@@ -1,6 +1,3 @@
-Voici le fichier JSON contenant la liste des questions, leurs options et les réponses correctes :
-
-```json
 [
   {
     "question": "Le cyberstalking est un harcèlement commis en ligne, notamment sur les réseaux sociaux.",
@@ -213,4 +210,3 @@ Voici le fichier JSON contenant la liste des questions, leurs options et les ré
     "answer": 0
   }
 ]
-```
