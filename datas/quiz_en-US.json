@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question": "Cyberstalking is harassment committed online, especially on social media?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Cyberstalking is punishable by law?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Bashing consists of criticizing a person violently and systematically?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Happy slapping involves filming someone's assault to post it on social media?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Body shaming, which aims to humiliate someone about their appearance, mainly targets boys?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "A fake news is false information created unintentionally?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Young people are the ones who spread the most fake news on the Internet?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Two-factor authentication is a security process requiring two types of information to access an account: your password and a code you specifically receive?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "The IP address is the identification number of every device connected to a network using the Internet?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Digital identity refers to all our digital traces on the Internet (what we like, share, etc.)?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "An influencer is a person who influences the decisions of their followers, including purchasing decisions?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Creating a Google alert for your name is?",
+      "options": ["A narcissistic tip", "A good idea to know if someone is speaking ill of you online"],
+      "answer": 1
+    },
+    {
+      "question": "The first mobile phone capable of connecting to the Internet was a Nokia?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Insulting someone online is considered cyberstalking?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "You should not use your real name when playing online?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Deepfake involves hacking a hacker's website?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "If you are a victim of cyberbullying, it is unnecessary to take screenshots?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which age group is most affected by cyberbullying?",
+      "options": ["9-13 years old", "18-24 years old"],
+      "answer": 0
+    },
+    {
+      "question": "60% of emails are spam?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "5.3 billion people use the Internet?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "An email address is considered personal data?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Spreading rumors about someone on social media is an act of cyberbullying?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "Liking a post mocking someone is an act of cyberbullying?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "It is forbidden to publish a photo of you without your permission?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "The right to be forgotten allows a person to request the deletion of their personal data published online?",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "question": "If you witness cyberbullying, you should?",
+      "options": ["Talk to the victim to offer support", "Publicly insult the bully"],
+      "answer": 0
+    },
+    {
+      "question": "The most secure password is?",
+      "options": ["Jdoznxhvltrpzxmvikue", "Jt8H-à@kMT&é"],
+      "answer": 1
+    },
+    {
+      "question": "The least secure password is?",
+      "options": ["Tg7@eG", "123456789"],
+      "answer": 1
+    },
+    {
+      "question": "Which of these devices does not protect a computer from hacking?",
+      "options": ["A firewall", "A USB key"],
+      "answer": 1
+    },
+    {
+      "question": "What is spyware?",
+      "options": ["Malicious software that collects personal data", "A person monitoring you on social media"],
+      "answer": 0
+    },
+    {
+      "question": "A public Wi-Fi network is as secure as any other?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "The first social network was Facebook?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "The first email was sent in the 1980s?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "What should you not do?",
+      "options": ["Change your password often", "Use the same password everywhere"],
+      "answer": 1
+    },
+    {
+      "question": "Can you share your credit card password?",
+      "options": ["On secure websites", "Never"],
+      "answer": 1
+    },
+    {
+      "question": "Fraudulent emails are all easy to spot?",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "What is ransomware?",
+      "options": ["Malicious software", "Security software"],
+      "answer": 0
+    },
+    {
+      "question": "How many mobile phones are sold worldwide?",
+      "options": ["20000 per hour", "54 per second"],
+      "answer": 1
+    },
+    {
+      "question": "In Japan, what do you call a person addicted to screens?",
+      "options": ["A Hikikomori", "A Mangaka"],
+      "answer": 0
+    },
+    {
+      "question": "In case of loss or theft, which code allows you to block a smartphone on all networks?",
+      "options": ["The PIN code", "The IMEI code"],
+      "answer": 1
+    },
+    {
+      "question": "It is recommended to turn off screens?",
+      "options": ["One hour before bedtime", "One hour after bedtime"],
+      "answer": 0
+    },
+    {
+      "question": "A padlock displayed in front of a website address means?",
+      "options": ["The site is secure", "The site is dangerous"],
+      "answer": 0
+    }
+  ]
+}
