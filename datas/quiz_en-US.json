@@ -1,5 +1,6 @@
 {
-  "questions": [
+  "questions":
+  [
     {
       "question": "Cyberstalking is harassment committed online, especially on social media?",
       "options": ["True", "False"],
@@ -41,7 +42,7 @@
       "answer": 0
     },
     {
-      "question": "The IP address is the identification number of every device connected to a network using the Internet?",
+      "question": "An IP address is the identification number of each device connected to a network using the Internet?",
       "options": ["True", "False"],
       "answer": 0
     },
@@ -51,13 +52,13 @@
       "answer": 0
     },
     {
-      "question": "An influencer is a person who influences the decisions of their followers, including purchasing decisions?",
+      "question": "An influencer is a person who influences the decisions of the internet users who follow them, including purchase decisions?",
       "options": ["True", "False"],
       "answer": 0
     },
     {
-      "question": "Creating a Google alert for your name is?",
-      "options": ["A narcissistic tip", "A good idea to know if someone is speaking ill of you online"],
+      "question": "Creating a Google alert for your name and surname is?",
+      "options": ["A narcissistic tip", "A good idea to know if someone is speaking ill of you on the Internet"],
       "answer": 1
     },
     {
@@ -66,7 +67,7 @@
       "answer": 0
     },
     {
-      "question": "Insulting someone online is considered cyberstalking?",
+      "question": "Insulting someone on the Internet is considered cyberstalking?",
       "options": ["True", "False"],
       "answer": 0
     },
@@ -86,8 +87,8 @@
       "answer": 1
     },
     {
-      "question": "Which age group is most affected by cyberbullying?",
-      "options": ["9-13 years old", "18-24 years old"],
+      "question": "What age group is most affected by cyberbullying?",
+      "options": ["9-13 years", "18-24 years"],
       "answer": 0
     },
     {
@@ -111,23 +112,23 @@
       "answer": 0
     },
     {
-      "question": "Liking a post mocking someone is an act of cyberbullying?",
+      "question": "Liking a post that mocks someone is an act of cyberbullying?",
       "options": ["True", "False"],
       "answer": 0
     },
     {
-      "question": "It is forbidden to publish a photo of you without your permission?",
+      "question": "It is forbidden to publish a photo of you without asking for your permission?",
       "options": ["True", "False"],
       "answer": 0
     },
     {
-      "question": "The right to be forgotten allows a person to request the deletion of their personal data published online?",
+      "question": "The right to be forgotten allows a person to request the deletion of their personal data published on the Internet?",
       "options": ["True", "False"],
       "answer": 0
     },
     {
       "question": "If you witness cyberbullying, you should?",
-      "options": ["Talk to the victim to offer support", "Publicly insult the bully"],
+      "options": ["Talk to the victim to provide support", "Publicly insult the bully"],
       "answer": 0
     },
     {
@@ -147,7 +148,7 @@
     },
     {
       "question": "What is spyware?",
-      "options": ["Malicious software that collects personal data", "A person monitoring you on social media"],
+      "options": ["A malicious software that collects personal data", "A person monitoring you on social media"],
       "answer": 0
     },
     {
@@ -171,23 +172,23 @@
       "answer": 1
     },
     {
-      "question": "Can you share your credit card password?",
+      "question": "Can I share my credit card password?",
       "options": ["On secure websites", "Never"],
       "answer": 1
     },
     {
-      "question": "Fraudulent emails are all easy to spot?",
+      "question": "Are all phishing emails easy to spot?",
       "options": ["True", "False"],
       "answer": 1
     },
     {
       "question": "What is ransomware?",
-      "options": ["Malicious software", "Security software"],
+      "options": ["A malicious software", "A security software"],
       "answer": 0
     },
     {
       "question": "How many mobile phones are sold worldwide?",
-      "options": ["20000 per hour", "54 per second"],
+      "options": ["20,000 per hour", "54 per second"],
       "answer": 1
     },
     {
@@ -196,7 +197,7 @@
       "answer": 0
     },
     {
-      "question": "In case of loss or theft, which code allows you to block a smartphone on all networks?",
+      "question": "In case of loss or theft, which code allows you to block the use of a smartphone on all networks?",
       "options": ["The PIN code", "The IMEI code"],
       "answer": 1
     },
@@ -207,7 +208,7 @@
     },
     {
       "question": "A padlock displayed in front of a website address means?",
-      "options": ["The site is secure", "The site is dangerous"],
+      "options": ["That the site is secure", "That the site is dangerous"],
       "answer": 0
     }
   ]

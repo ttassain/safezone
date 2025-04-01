@@ -1,214 +1,215 @@
 {
-  "preguntas": [
+  "questions":
+  [
     {
-      "pregunta": "¿El ciberacoso es un hostigamiento cometido en línea, especialmente en las redes sociales?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El ciberacoso es un acoso cometido en línea, especialmente en las redes sociales?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El ciberacoso está penado por la ley?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El ciberacoso está penado por la ley?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El bashing consiste en criticar a una persona de manera violenta y sistemática?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El bashing consiste en criticar a una persona de manera violenta y sistemática?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El happy slapping consiste en grabar la agresión a una persona para publicarla en las redes sociales?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El happy slapping consiste en grabar la agresión a una persona para publicarla en las redes sociales?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El body shaming, práctica que busca humillar a una persona por su físico, se dirige principalmente a los chicos?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "El body shaming, práctica que busca humillar a una persona por su físico, se dirige principalmente a los chicos?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Una fake news es una información falsa creada de manera involuntaria?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "Una fake news es una información falsa creada involuntariamente?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Los jóvenes son quienes más difunden información falsa en Internet?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "Los jóvenes son los que más difunden información falsa en Internet?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿La autenticación en dos pasos es un proceso de seguridad que requiere dos tipos de información para acceder a una cuenta: tu contraseña y un código que recibes específicamente?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "La doble autenticación es un proceso de seguridad que requiere dos tipos de información para acceder a una cuenta: tu contraseña y un código que recibes específicamente?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿La dirección IP es el número de identificación de cada dispositivo conectado a una red que utiliza Internet?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "La dirección IP es el número de identificación de cada dispositivo conectado a una red que utiliza Internet?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿La identidad digital se refiere al conjunto de nuestras huellas digitales en Internet (lo que nos gusta, compartimos, etc.)?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "La identidad digital se refiere al conjunto de nuestras huellas digitales en Internet (lo que nos gusta, compartimos, etc.)?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Un influencer es una persona que ejerce influencia sobre los internautas que lo siguen y en sus decisiones de compra?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Un influencer es una persona que ejerce influencia sobre los internautas que lo siguen y sobre sus decisiones de compra?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Crear una alerta en Google para tu nombre y apellido es?",
-      "opciones": ["Un truco narcisista", "Una buena idea para saber si alguien habla mal de ti en Internet"],
-      "respuesta": 1
+      "question": "Crear una alerta en Google para tu nombre y apellido es?",
+      "options": ["Un truco narcisista", "Una buena idea para saber si alguien habla mal de ti en Internet"],
+      "answer": 1
     },
     {
-      "pregunta": "¿El primer teléfono móvil capaz de conectarse a Internet fue un Nokia?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El primer teléfono móvil capaz de conectarse a Internet fue un Nokia?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Insultar a alguien en Internet se considera ciberacoso?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Insultar a alguien en Internet se considera ciberacoso?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿No deberías usar tu nombre real para jugar en línea?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "No uses tu nombre real para jugar en línea?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El deepfake consiste en hackear un sitio de hackers?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "El deepfake consiste en hackear un sitio de hackers?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Si eres víctima de ciberacoso, no es necesario tomar capturas de pantalla?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "Si eres víctima de ciberacoso, es inútil tomar capturas de pantalla?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Cuál es el rango de edad más afectado por el ciberacoso?",
-      "opciones": ["9-13 años", "18-24 años"],
-      "respuesta": 0
+      "question": "Cuál es el rango de edad más afectado por el ciberacoso?",
+      "options": ["9-13 años", "18-24 años"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El 60% de los correos electrónicos son spam?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El 60% de los correos electrónicos son spam?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿5.3 mil millones de personas usan Internet?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "5.3 mil millones de personas usan Internet?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Una dirección de correo electrónico constituye un dato personal?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Una dirección de correo electrónico constituye un dato personal?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Difundir rumores sobre una persona en las redes sociales es un acto de ciberacoso?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Difundir rumores sobre una persona en las redes sociales es un acto de ciberacoso?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Dar like a una publicación que se burla de alguien es un acto de ciberacoso?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Dar 'me gusta' a una publicación que se burla de alguien es un acto de ciberacoso?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Está prohibido publicar una foto tuya sin pedirte permiso?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "Está prohibido publicar una foto tuya sin pedirte permiso?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿El derecho al olvido permite a una persona solicitar la eliminación de sus datos personales publicados en Internet?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 0
+      "question": "El derecho al olvido permite a una persona reclamar la eliminación de sus datos personales publicados en Internet?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Si eres testigo de ciberacoso, deberías?",
-      "opciones": ["Hablar con la víctima para apoyarla", "Insultar públicamente al acosador"],
-      "respuesta": 0
+      "question": "Si eres testigo de ciberacoso, deberías?",
+      "options": ["Hablar con la víctima para brindarle apoyo", "Insultar públicamente al acosador"],
+      "answer": 0
     },
     {
-      "pregunta": "¿La contraseña más segura es?",
-      "opciones": ["Jdoznxhvltrpzxmvikue", "Jt8H-à@kMT&é"],
-      "respuesta": 1
+      "question": "La contraseña más segura es?",
+      "options": ["Jdoznxhvltrpzxmvikue", "Jt8H-à@kMT&é"],
+      "answer": 1
     },
     {
-      "pregunta": "¿La contraseña menos segura es?",
-      "opciones": ["Tg7@eG", "123456789"],
-      "respuesta": 1
+      "question": "La contraseña menos segura es?",
+      "options": ["Tg7@eG", "123456789"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Cuál de estos dispositivos no sirve para proteger una computadora contra el hackeo?",
-      "opciones": ["Un firewall", "Una memoria USB"],
-      "respuesta": 1
+      "question": "Cuál de estos dispositivos no sirve para proteger una computadora contra el hackeo?",
+      "options": ["Un firewall", "Una memoria USB"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Qué es un software espía?",
-      "opciones": ["Un software malicioso que recopila datos personales", "Una persona que te vigila en las redes"],
-      "respuesta": 0
+      "question": "Qué es un software espía?",
+      "options": ["Un software malicioso que recopila datos personales", "Una persona que te vigila en las redes"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Una red Wi-Fi pública es tan segura como otra?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "Una red Wi-Fi pública es tan segura como otra?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿La primera red social fue Facebook?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "La primera red social fue Facebook?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿El primer correo electrónico se envió en los años 80?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "El primer correo electrónico se envió en los años 80?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Qué no deberías hacer?",
-      "opciones": ["Cambiar frecuentemente tu contraseña", "Usar la misma contraseña en todas partes"],
-      "respuesta": 1
+      "question": "Qué no deberías hacer?",
+      "options": ["Cambiar tu contraseña con frecuencia", "Usar la misma contraseña en todas partes"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Puedo compartir la contraseña de mi tarjeta de crédito?",
-      "opciones": ["En sitios web seguros", "Nunca"],
-      "respuesta": 1
+      "question": "Puedo comunicar la contraseña de mi tarjeta de crédito?",
+      "options": ["En sitios web seguros", "Nunca"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Los correos electrónicos fraudulentos son fáciles de identificar?",
-      "opciones": ["Verdadero", "Falso"],
-      "respuesta": 1
+      "question": "Los correos electrónicos fraudulentos son fáciles de detectar?",
+      "options": ["Verdadero", "Falso"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Qué es un ransomware?",
-      "opciones": ["Un software malicioso", "Un software de seguridad"],
-      "respuesta": 0
+      "question": "Qué es un ransomware?",
+      "options": ["Un software malicioso", "Un software de seguridad"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Cuántos teléfonos móviles se venden en el mundo?",
-      "opciones": ["20000 por hora", "54 por segundo"],
-      "respuesta": 1
+      "question": "Cuántos teléfonos móviles se venden en el mundo?",
+      "options": ["20000 por hora", "54 por segundo"],
+      "answer": 1
     },
     {
-      "pregunta": "En Japón, ¿cómo se llama a una persona adicta a las pantallas?",
-      "opciones": ["Un Hikikomori", "Un Mangaka"],
-      "respuesta": 0
+      "question": "En Japón, cómo se llama a una persona adicta a las pantallas?",
+      "options": ["Un Hikikomori", "Un Mangaka"],
+      "answer": 0
     },
     {
-      "pregunta": "En caso de pérdida o robo, ¿qué código permite bloquear el uso de un smartphone en todas las redes?",
-      "opciones": ["El código PIN", "El código IMEI"],
-      "respuesta": 1
+      "question": "En caso de pérdida o robo, qué código permite bloquear el uso de un smartphone en todas las redes?",
+      "options": ["El código PIN", "El código IMEI"],
+      "answer": 1
     },
     {
-      "pregunta": "¿Se recomienda apagar las pantallas?",
-      "opciones": ["Una hora antes de acostarse", "Una hora después de acostarse"],
-      "respuesta": 0
+      "question": "Se recomienda apagar las pantallas?",
+      "options": ["Una hora antes de acostarse", "Una hora después de acostarse"],
+      "answer": 0
     },
     {
-      "pregunta": "¿Un candado mostrado frente a la dirección de un sitio web significa?",
-      "opciones": ["Que el sitio es seguro", "Que el sitio es peligroso"],
-      "respuesta": 0
+      "question": "Un candado mostrado delante de la dirección de un sitio web significa?",
+      "options": ["Que el sitio es seguro", "Que el sitio es peligroso"],
+      "answer": 0
     }
   ]
 }
