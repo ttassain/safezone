@@ -1,212 +1,253 @@
 {
-  "questions":
-  [
+  "questions": [
     {
+      "id": 1,
       "question": "Le cyberstalking est un harcèlement commis en ligne, notamment sur les réseaux sociaux ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 2,
       "question": "Le cyberstalking est puni par la loi ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 3,
       "question": "Le bashing consiste à critiquer une personne de manière violente et systématique ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 4,
       "question": "Le happy slapping consiste à filmer l'agression d'une personne pour la poster sur les réseaux sociaux ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 5,
       "question": "Le body shaming, pratique qui vise à humilier une personne vis-à-vis de son physique, cible principalement les garçons ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 6,
       "question": "Une fake news est une fausse information créée involontairement ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 7,
       "question": "Les jeunes sont ceux qui diffusent le plus de fausses informations sur Internet ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 8,
       "question": "La double authentification est un processus de sécurité qui requiert deux types d'informations pour accéder à un compte : votre mot de passe et un code que vous recevez spécifiquement ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 9,
       "question": "L'adresse IP est le numéro d'identification de chaque appareil connecté à un réseau utilisant Internet ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 10,
       "question": "L’identité numérique désigne l’ensemble de nos traces numériques sur Internet (ce que nous aimons, partageons, etc.) ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 11,
       "question": "Un influenceur est une personne qui exerce une influence sur les internautes qui le suivent et sur leurs décisions d’achat ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 12,
       "question": "Créer une alerte sur Google pour son nom et son prénom est ?",
       "options": ["Une astuce narcissique", "Une bonne idée pour savoir si quelqu’un dit du mal de vous sur Internet"],
       "answer": 1
     },
     {
+      "id": 13,
       "question": "Le premier téléphone portable capable de se connecter à Internet était un Nokia ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 14,
       "question": "Insulter quelqu’un sur Internet est considéré comme du cyberstalking ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 15,
       "question": "N’utilisez pas votre vrai nom pour jouer en ligne ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 16,
       "question": "Le deepfake consiste à pirater un site de hackers ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 17,
       "question": "Si vous êtes victime de cyberharcèlement, il est inutile de prendre des captures d’écran ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 18,
       "question": "Quelle est la tranche d'âge la plus touchée par le cyberharcèlement ?",
       "options": ["9-13 ans", "18-24 ans"],
       "answer": 0
     },
     {
+      "id": 19,
       "question": "60% des e-mails sont des spams ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 20,
       "question": "5.3 milliards de personnes utilisent Internet ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 21,
       "question": "Une adresse e-mail constitue une donnée personnelle ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 22,
       "question": "Répandre des rumeurs sur une personne sur les réseaux sociaux est un acte de cyberharcèlement ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 23,
       "question": "Aimer un post qui se moque de quelqu'un est un acte de cyberharcèlement ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 24,
       "question": "Il est interdit de publier une photo de vous sans vous en demander la permission ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 25,
       "question": "Le droit à l’oubli permet à une personne de réclamer l’effacement de ses données personnelles qui ont été publiées sur internet ?",
       "options": ["Vrai", "Faux"],
       "answer": 0
     },
     {
+      "id": 26,
       "question": "Si vous êtes témoin de cyberharcèlement, vous devriez ?",
       "options": ["Parler à la victime pour lui apporter du soutien", "Insulter publiquement l’harceleur"],
       "answer": 0
     },
     {
+      "id": 27,
       "question": "Le mot de passe le plus sécurisé est ?",
       "options": ["Jdoznxhvltrpzxmvikue", "Jt8H-à@kMT&é"],
       "answer": 1
     },
     {
+      "id": 28,
       "question": "Le mot de passe le moins sécurisé est ?",
       "options": ["Tg7@eG", "123456789"],
       "answer": 1
     },
     {
+      "id": 29,
       "question": "Lequel de ces dispositifs ne sert pas à protéger un ordinateur contre le piratage ?",
       "options": ["Un pare-feu", "Une clé USB"],
       "answer": 1
     },
     {
+      "id": 30,
       "question": "Qu’est-ce qu’un logiciel espion ?",
       "options": ["Un logiciel malveillant qui collecte des données personnelles", "Une personne qui vous surveille sur les réseaux"],
       "answer": 0
     },
     {
+      "id": 31,
       "question": "Un réseau Wi-Fi public est aussi sécurisé qu'un autre ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 32,
       "question": "Le premier réseau social fut Facebook ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 33,
       "question": "Le premier e-mail a été envoyé dans les années 1980 ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 34,
       "question": "Que ne devriez-vous pas faire ?",
       "options": ["Changer souvent de mot de passe", "Utiliser le même mot de passe partout"],
       "answer": 1
     },
     {
+      "id": 35,
       "question": "Je peux communiquer le mot de passe de ma carte de crédit ?",
       "options": ["Sur des sites web sécurisés", "Jamais"],
       "answer": 1
     },
     {
+      "id": 36,
       "question": "Les e-mails frauduleux sont tous faciles à repérer ?",
       "options": ["Vrai", "Faux"],
       "answer": 1
     },
     {
+      "id": 37,
       "question": "Qu’est-ce qu’un rançongiciel ?",
       "options": ["Un logiciel malveillant", "Un logiciel de sécurité"],
       "answer": 0
     },
     {
+      "id": 38,
       "question": "Combien de téléphones portables sont vendus dans le monde ?",
       "options": ["20000 par heure", "54 par seconde"],
       "answer": 1
     },
     {
+      "id": 39,
       "question": "Au Japon, comment appelle-t-on une personne accro aux écrans ?",
       "options": ["Un Hikikomori", "Un Mangaka"],
       "answer": 0
     },
     {
+      "id": 40,
       "question": "En cas de perte ou de vol, quel code permet de bloquer l'utilisation d'un smartphone sur tous les réseaux ?",
       "options": ["Le code PIN", "Le code IMEI"],
       "answer": 1
     },
     {
+      "id": 41,
       "question": "Il est conseillé d'éteindre les écrans ?",
       "options": ["Une heure avant de se coucher", "Une heure après le coucher"],
       "answer": 0
     },
     {
+      "id": 42,
       "question": "Un cadenas affiché devant l'adresse d'un site web signifie ?",
       "options": ["Que le site est sécurisé", "Que le site est dangereux"],
       "answer": 0
