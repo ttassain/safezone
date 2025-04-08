@@ -10,7 +10,8 @@
 				"Le cyberharcèlement devient de la cyberviolence lorsqu’il est trop violent."
 			],
 			"answer": 2,
-			"explanation": "Lorsqu‘un acte de cyberviolence se répète encore et encore, on parle de cyberharcèlement. Ces actes peuvent inclure des insultes, des menaces, ou la diffusion de contenu privé sans consentement."
+			"explanation": "Lorsqu‘un acte de cyberviolence se répète encore et encore, on parle de cyberharcèlement. Ces actes peuvent inclure des insultes, des menaces, ou la diffusion de contenu privé sans consentement.",
+			"source": ""
 		},
 		{
 			"id": "Q002",
@@ -22,7 +23,8 @@
 				"Les plus de 25 ans."
 			],
 			"answer": 2,
-			"explanation": "Environ 60% des 18-25 ans disent avoir été victimes de cyberharcèlement."
+			"explanation": "Environ 60% des 18-25 ans disent avoir été victimes de cyberharcèlement.",
+			"source": ""
 		},
 		{
 			"id": "Q003",
@@ -34,7 +36,8 @@
 				"1 sur 50."
 			],
 			"answer": 1,
-			"explanation": "73% des femmes ont déjà subi des violences en ligne, qu’il s’agisse d’insultes, de menaces ou d’harcèlement."
+			"explanation": "73% des femmes ont déjà subi des violences en ligne, qu’il s’agisse d’insultes, de menaces ou d’harcèlement.",
+			"source": "Source : Deuxième volume de l’Enquête sur le comportement des enfants d’âge scolaire en matière de santé (HBSC), portant sur les formes de harcèlement et de violence entre adolescents dans 44 pays et régions publiée par l’OMS."
 		}
 	]
 }
