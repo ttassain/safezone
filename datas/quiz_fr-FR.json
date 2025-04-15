@@ -10,7 +10,7 @@
 				"Le cyberharcèlement devient de la cyberviolence lorsqu’il est trop violent."
 			],
 			"answer": 2,
-			"explanation": "Lorsqu‘un acte de cyberviolence se répète encore et encore, on parle de cyberharcèlement. Ces actes peuvent inclure des insultes, des menaces, ou la diffusion de contenu privé sans consentement.",
+			"explanation": "Le cyberharcèlement est la répétition d’actes de cyberviolence tels que des insultes, menaces ou diffusion de contenu privé sans consentement.",
 			"source": ""
 		},
 		{
@@ -18,29 +18,16 @@
 			"active": true,
 			"question": "Les jeunes sont de plus en plus exposés aux dangers du numérique, mais quelle est la tranche d’âge la plus touchée par le cyberharcèlement ?",
 			"options": [
-				"Les 6-18 ans.",
-				"Les 18-25 ans.",
-				"Les plus de 25 ans."
+				"Les 6-18 ans",
+				"Les 18-25 ans",
+				"Les plus de 25 ans"
 			],
 			"answer": 2,
-			"explanation": "Environ 60% des 18-25 ans disent avoir été victimes de cyberharcèlement.",
+			"explanation": "Les 18-25 ans sont les plus touchés par le cyberharcèlement.",
 			"source": ""
 		},
 		{
 			"id": "Q003",
-			"active": true,
-			"question": "Les jeunes ne sont pas seulement victimes de cyberharcèlement, certains y prennent part. Combien d’ados ou d’enfants avouent avoir déjà cyberharcelé quelqu’un en ligne ?",
-			"options": [
-				"1 sur 8.",
-				"1 sur 10.",
-				"1 sur 50."
-			],
-			"answer": 1,
-			"explanation": "73% des femmes ont déjà subi des violences en ligne, qu’il s’agisse d’insultes, de menaces ou d’harcèlement.",
-			"source": "Source : Deuxième volume de l’Enquête sur le comportement des enfants d’âge scolaire en matière de santé (HBSC), portant sur les formes de harcèlement et de violence entre adolescents dans 44 pays et régions publiée par l’OMS."
-		},
-		{
-			"id": "Q004",
 			"active": true,
 			"question": "Quel pourcentage des 18-25 ans affirme avoir été victime de cyberharcèlement ?",
 			"options": [
@@ -51,6 +38,19 @@
 			"answer": 3,
 			"explanation": "60% des 18-25 ans disent avoir été victimes de cyberharcèlement.",
 			"source": "Source : Etude réalisée en ligne par Audirep pour Caisse d’Epargne et E-enfance entre le 8 mai et le 3 juin 2022, auprès d’un échantillon de 1 209 jeunes âgés de 18 à 25 ans."
+		},
+		{
+			"id": "Q004",
+			"active": true,
+			"question": "Les jeunes ne sont pas seulement victimes de cyberharcèlement, certains y prennent part. Combien d’ados ou d’enfants avouent avoir déjà cyberharcelé quelqu’un en ligne ?",
+			"options": [
+				"1 sur 8",
+				"1 sur 10",
+				"1 sur 50"
+			],
+			"answer": 1,
+			"explanation": "",
+			"source": "Source : Deuxième volume de l’Enquête sur le comportement des enfants d’âge scolaire en matière de santé (HBSC), portant sur les formes de harcèlement et de violence entre adolescents dans 44 pays et régions publiée par l’OMS."
 		},
 		{
 			"id": "Q005",
