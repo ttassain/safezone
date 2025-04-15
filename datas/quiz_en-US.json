@@ -1,5 +1,134 @@
 {
-  "questions":
-  [
-  ]
+	"questions": [
+		{
+			"id": "Q001",
+			"active": true,
+			"question": "We have all heard about cyber violence and cyberbullying, but do you really know what differentiates them?",
+			"options": [
+				"They are the same thing!",
+				"Cyber violence is an isolated act, while cyberbullying is repeated.",
+				"Cyberbullying becomes cyber violence when it is too violent."
+			],
+			"answer": 2,
+			"explanation": "When an act of cyber violence is repeated over and over, it is called cyberbullying. These acts can include insults, threats, or sharing private content without consent.",
+			"source": ""
+		},
+		{
+			"id": "Q002",
+			"active": true,
+			"question": "Young people are increasingly exposed to digital dangers, but what age group is most affected by cyberbullying?",
+			"options": [
+				"6-18 years old.",
+				"18-25 years old.",
+				"Over 25 years old."
+			],
+			"answer": 2,
+			"explanation": "About 60% of 18-25 year-olds report having been victims of cyberbullying.",
+			"source": ""
+		},
+		{
+			"id": "Q003",
+			"active": true,
+			"question": "Young people are not only victims of cyberbullying; some participate in it. How many teens or children admit to having cyberbullied someone online?",
+			"options": [
+				"1 in 8.",
+				"1 in 10.",
+				"1 in 50."
+			],
+			"answer": 1,
+			"explanation": "73% of women have experienced online violence, including insults, threats, or harassment.",
+			"source": "Source: Second volume of the Health Behavior in School-aged Children (HBSC) survey on forms of bullying and violence among adolescents in 44 countries and regions published by WHO."
+		},
+		{
+			"id": "Q004",
+			"active": true,
+			"question": "What percentage of 18-25 year-olds claim to have been victims of cyberbullying?",
+			"options": [
+				"40%",
+				"50%",
+				"60%"
+			],
+			"answer": 3,
+			"explanation": "60% of 18-25 year-olds report having been victims of cyberbullying.",
+			"source": "Source: Online study conducted by Audirep for Caisse d’Epargne and E-enfance between May 8 and June 3, 2022, among a sample of 1,209 young people aged 18 to 25."
+		},
+		{
+			"id": "Q005",
+			"active": true,
+			"question": "Victims of cyberbullying are often women. But do you have any idea of the percentage of affected women?",
+			"options": [
+				"51%",
+				"62%",
+				"85%"
+			],
+			"answer": 3,
+			"explanation": "85% of women have experienced online violence, including insults, threats, or harassment.",
+			"source": "Source: Study 'Measuring the prevalence of online violence against women' - the Economist Intelligence Unit published in 2021."
+		},
+		{
+			"id": "Q006",
+			"active": true,
+			"question": "Often, online harassment goes beyond the screen. Do you know how many victims end up being threatened in real life?",
+			"options": [
+				"53%",
+				"65%",
+				"71%"
+			],
+			"answer": 3,
+			"explanation": "For 71% of victims, cyberbullying continues offline!",
+			"source": "Source: ADL NGO report 'Hate is No Game: Harassment and Positive Social Experiences in Online Games' 2021."
+		},
+		{
+			"id": "Q007",
+			"active": true,
+			"question": "A friend or relative tells you about threatening messages and insults they are receiving. What number can they contact?",
+			"options": [
+				"3018",
+				"3019",
+				"3030"
+			],
+			"answer": 1,
+			"explanation": "3018, managed by the e-Enfance association, is the number to call in case of cyberbullying. A free and anonymous service that helps victims and witnesses.",
+			"source": ""
+		},
+		{
+			"id": "Q008",
+			"active": true,
+			"question": "You come across shocking and illegal content online, what do you do?",
+			"options": [
+				"You report it to the Pharos platform, another useful platform to combat cyberbullying and report inappropriate content.",
+				"You comment on the content saying it has no place on the internet.",
+				"You simply hide the content."
+			],
+			"answer": 1,
+			"explanation": "Pharos is THE platform to report illegal content. It is a quick and secure way to remove harmful and unhealthy content.",
+			"source": ""
+		},
+		{
+			"id": "Q009",
+			"active": true,
+			"question": "What penalty does an adult risk in case of online moral harassment?",
+			"options": [
+				"2 years in prison and a €30,000 fine",
+				"A 6-month ban from the platform from which the offense was committed.",
+				"Both"
+			],
+			"answer": 3,
+			"explanation": "Both!",
+			"source": ""
+		},
+		{
+			"id": "Q010",
+			"active": true,
+			"question": "48% of gamers are actually female gamers. How many of them adopt strategies to conceal their gender to avoid being harassed?",
+			"options": [
+				"10%",
+				"25%",
+				"40%"
+			],
+			"answer": 3,
+			"explanation": "40% of female gamers adopt strategies, such as choosing a male username or refusing to participate in voice chats, to avoid inappropriate comments.",
+			"source": "Source: Study conducted by IFOP for GamerTop.fr from March 17 to 23, 2023, through a self-administered questionnaire among a sample of 5,009 people, representative of the French population aged over 15."
+		}
+	]
 }

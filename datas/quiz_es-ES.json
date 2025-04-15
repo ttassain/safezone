@@ -1,5 +1,134 @@
 {
-  "questions":
-  [
-  ]
+	"questions": [
+		{
+			"id": "Q001",
+			"active": true,
+			"question": "Todos hemos oído hablar de la ciberviolencia y el ciberacoso, pero ¿realmente sabes cuál es la diferencia entre ellos?",
+			"options": [
+				"¡Es lo mismo!",
+				"La ciberviolencia es un acto aislado, mientras que el ciberacoso se repite.",
+				"El ciberacoso se convierte en ciberviolencia cuando es demasiado violento."
+			],
+			"answer": 2,
+			"explanation": "Cuando un acto de ciberviolencia se repite una y otra vez, hablamos de ciberacoso. Estos actos pueden incluir insultos, amenazas o la difusión de contenido privado sin consentimiento.",
+			"source": ""
+		},
+		{
+			"id": "Q002",
+			"active": true,
+			"question": "Los jóvenes están cada vez más expuestos a los peligros del mundo digital, pero ¿cuál es el grupo de edad más afectado por el ciberacoso?",
+			"options": [
+				"De 6 a 18 años.",
+				"De 18 a 25 años.",
+				"Mayores de 25 años."
+			],
+			"answer": 2,
+			"explanation": "Aproximadamente el 60% de los jóvenes de 18 a 25 años dicen haber sido víctimas de ciberacoso.",
+			"source": ""
+		},
+		{
+			"id": "Q003",
+			"active": true,
+			"question": "Los jóvenes no solo son víctimas de ciberacoso, algunos también participan. ¿Cuántos adolescentes o niños admiten haber ciberacosado a alguien en línea?",
+			"options": [
+				"1 de cada 8.",
+				"1 de cada 10.",
+				"1 de cada 50."
+			],
+			"answer": 1,
+			"explanation": "El 73% de las mujeres han sufrido violencia en línea, ya sea insultos, amenazas o acoso.",
+			"source": "Fuente: Segundo volumen de la Encuesta sobre el comportamiento de los niños en edad escolar en materia de salud (HBSC), sobre formas de acoso y violencia entre adolescentes en 44 países y regiones publicada por la OMS."
+		},
+		{
+			"id": "Q004",
+			"active": true,
+			"question": "¿Qué porcentaje de jóvenes de 18 a 25 años afirma haber sido víctima de ciberacoso?",
+			"options": [
+				"40%",
+				"50%",
+				"60%"
+			],
+			"answer": 3,
+			"explanation": "El 60% de los jóvenes de 18 a 25 años dicen haber sido víctimas de ciberacoso.",
+			"source": "Fuente: Estudio realizado en línea por Audirep para Caisse d’Epargne y E-enfance entre el 8 de mayo y el 3 de junio de 2022, con una muestra de 1,209 jóvenes de 18 a 25 años."
+		},
+		{
+			"id": "Q005",
+			"active": true,
+			"question": "Las víctimas de ciberacoso son más a menudo mujeres. Pero, ¿tienes idea del porcentaje de mujeres afectadas?",
+			"options": [
+				"51%",
+				"62%",
+				"85%"
+			],
+			"answer": 3,
+			"explanation": "El 85% de las mujeres han sufrido violencia en línea, ya sea insultos, amenazas o acoso.",
+			"source": "Fuente: Estudio «Measuring the prevalence of online violence against women» - the Economist Intelligence Unit publicado en 2021."
+		},
+		{
+			"id": "Q006",
+			"active": true,
+			"question": "A menudo, el acoso en línea va más allá de la pantalla. ¿Sabes cuántas víctimas terminan siendo amenazadas en la vida real?",
+			"options": [
+				"53%",
+				"65%",
+				"71%"
+			],
+			"answer": 3,
+			"explanation": "Para el 71% de las víctimas, el ciberacoso continúa fuera de línea.",
+			"source": "Fuente: Informe de la ONG ADL «Hate is No Game: Harassment and Positive Social Experiences in Online Games» 2021."
+		},
+		{
+			"id": "Q007",
+			"active": true,
+			"question": "Un amigo o un ser querido te habla de mensajes amenazantes e insultos que recibe. ¿Qué número puede contactar?",
+			"options": [
+				"El 3018",
+				"El 3019",
+				"El 3030"
+			],
+			"answer": 1,
+			"explanation": "El 3018, gestionado por la asociación e-Enfance, es el número a llamar en caso de ciberacoso. Un servicio gratuito y anónimo que ayuda a las víctimas y testigos.",
+			"source": ""
+		},
+		{
+			"id": "Q008",
+			"active": true,
+			"question": "Te encuentras con contenido chocante e ilegal en línea, ¿qué haces?",
+			"options": [
+				"Lo reportas a la plataforma Pharos, otra plataforma útil para luchar contra el ciberacoso y reportar contenido inapropiado.",
+				"Comentas el contenido diciendo que no tiene lugar en internet.",
+				"Simplemente ocultas el contenido."
+			],
+			"answer": 1,
+			"explanation": "Pharos es LA plataforma para reportar contenido ilegal. Es un medio rápido y seguro para eliminar contenido dañino y perjudicial.",
+			"source": ""
+		},
+		{
+			"id": "Q009",
+			"active": true,
+			"question": "¿Qué sanción enfrenta una persona mayor en caso de acoso moral en línea?",
+			"options": [
+				"2 años de prisión y 30,000 € de multa",
+				"Un baneo de 6 meses de la plataforma desde la cual cometió la infracción.",
+				"Ambas"
+			],
+			"answer": 3,
+			"explanation": "¡Ambas!",
+			"source": ""
+		},
+		{
+			"id": "Q010",
+			"active": true,
+			"question": "El 48% de los jugadores son en realidad jugadoras. ¿Cuántas de ellas adoptan estrategias para ocultar su género para evitar ser acosadas?",
+			"options": [
+				"10%",
+				"25%",
+				"40%"
+			],
+			"answer": 3,
+			"explanation": "El 40% de las jugadoras adoptan estrategias, como elegir un seudónimo masculino o negarse a participar en chats de voz, para evitar comentarios inapropiados.",
+			"source": "Fuente: Estudio realizado por IFOP para GamerTop.fr del 17 al 23 de marzo de 2023 mediante un cuestionario autoadministrado con una muestra de 5,009 personas, representativa de la población francesa mayor de 15 años."
+		}
+	]
 }
