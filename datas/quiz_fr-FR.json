@@ -38,6 +38,97 @@
 			"answer": 1,
 			"explanation": "73% des femmes ont déjà subi des violences en ligne, qu’il s’agisse d’insultes, de menaces ou d’harcèlement.",
 			"source": "Source : Deuxième volume de l’Enquête sur le comportement des enfants d’âge scolaire en matière de santé (HBSC), portant sur les formes de harcèlement et de violence entre adolescents dans 44 pays et régions publiée par l’OMS."
+		},
+		{
+			"id": "Q004",
+			"active": true,
+			"question": "Quel pourcentage des 18-25 ans affirme avoir été victime de cyberharcèlement ?",
+			"options": [
+				"40%",
+				"50%",
+				"60%"
+			],
+			"answer": 3,
+			"explanation": "60% des 18-25 ans disent avoir été victimes de cyberharcèlement.",
+			"source": "Source : Etude réalisée en ligne par Audirep pour Caisse d’Epargne et E-enfance entre le 8 mai et le 3 juin 2022, auprès d’un échantillon de 1 209 jeunes âgés de 18 à 25 ans."
+		},
+		{
+			"id": "Q005",
+			"active": true,
+			"question": "Les victimes de cyberharcèlement sont le plus souvent des femmes. Mais as-tu une idée du pourcentage de femmes touchées ?",
+			"options": [
+				"51%",
+				"62%",
+				"85%"
+			],
+			"answer": 3,
+			"explanation": "85% des femmes ont déjà subi des violences en ligne, qu’il s’agisse d’insultes, de menaces ou de harcèlement.",
+			"source": "Source : Etude « Measuring the prevalence of online violence against women » - the Economist Intelligence Unit publiée en 2021."
+		},
+		{
+			"id": "Q006",
+			"active": true,
+			"question": "Souvent, le harcèlement en ligne dépasse l’écran. Sais-tu combien de victimes finissent par être menacées dans la vraie vie ?",
+			"options": [
+				"53%",
+				"65%",
+				"71%"
+			],
+			"answer": 3,
+			"explanation": "Pour 71% des victimes, le cyberharcèlement continue hors ligne !",
+			"source": "Source : Rapport de l’ONG ADL « Hate is No Game: Harassment and Positive Social Experiences in Online Games » 2021."
+		},
+		{
+			"id": "Q007",
+			"active": true,
+			"question": "Un ami ou un proche te parle de messages menaçants et d’insultes qu’il reçoit. Quel numéro peut-il contacter ?",
+			"options": [
+				"Le 3018",
+				"Le 3019",
+				"Le 3030"
+			],
+			"answer": 1,
+			"explanation": "Le 3018, géré par l’association e-Enfance, est le numéro à appeler en cas de cyberharcèlement. Un service gratuit et anonyme qui aide les victimes et témoins.",
+			"source": ""
+		},
+		{
+			"id": "Q008",
+			"active": true,
+			"question": "Tu tombes sur du contenu choquant et illégal en ligne, tu fais quoi ?",
+			"options": [
+				"Tu le signales à la plateforme Pharos, une autre plateforme utile pour lutter contre le cyberharcèlement et signaler les contenus inappropriés.",
+				"Tu commentes le contenu en disant qu’il n’a pas sa place sur internet.",
+				"Tu masques simplement le contenu."
+			],
+			"answer": 1,
+			"explanation": "Pharos est LA plateforme pour signaler les contenus illégaux. C’est un moyen rapide et sécurisé de supprimer du contenu malsain et nuisible.",
+			"source": ""
+		},
+		{
+			"id": "Q009",
+			"active": true,
+			"question": "Quelle sanction risque une personne majeure en cas de harcèlement moral en ligne ?",
+			"options": [
+				"2 ans de prison et 30 000 € d'amende",
+				"Un bannissement de 6 mois de la plateforme à partir de laquelle elle a commis l’infraction.",
+				"Les 2"
+			],
+			"answer": 3,
+			"explanation": "Les deux !",
+			"source": ""
+		},
+		{
+			"id": "Q010",
+			"active": true,
+			"question": "48% des joueurs sont en réalité des joueuses. Combien d’entre elles adoptent des stratégies pour dissimuler leur genre afin d’éviter d’être harcelées ?",
+			"options": [
+				"10%",
+				"25%",
+				"40%"
+			],
+			"answer": 3,
+			"explanation": "40% des gameuses adoptent des stratégies, comme choisir un pseudo masculin ou refuser de participer à des chats vocaux, pour éviter les remarques déplacées.",
+			"source": "Source : Étude menée par l’IFOP pour GamerTop.fr du 17 au 23 mars 2023 par questionnaire autoadministré auprès d’un échantillon de 5 009 personnes, représentatif de la population française âgée de plus de 15 ans."
 		}
 	]
 }
