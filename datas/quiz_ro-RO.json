@@ -1,134 +1,160 @@
 {
 	"questions": [
 		{
-			"id": "Q001",
+			"id": "QRO001",
 			"active": true,
-			"question": "Cu toții am auzit deja despre cyberviolență și cyberbullying, dar știi cu adevărat ce le diferențiază?",
+			"question": "La ce vârstă este recomandat ca un copil să înceapă să folosească dispozitive digitale?",
 			"options": [
-				"Este același lucru!",
-				"Cyberviolența este un act izolat, în timp ce cyberbullying-ul se repetă.",
-				"Cyberbullying-ul devine cyberviolență atunci când este prea violent."
+				"Sub 2 ani",
+				"Între 2 și 5 ani",
+				"După 5 ani"
 			],
 			"answer": 2,
-			"explanation": "Cyberbullying-ul reprezintă repetarea actelor de cyberviolență, cum ar fi insultele, amenințările sau distribuirea de conținut privat fără consimțământ.",
+			"explanation": "Ministerul Educației recomandă părinților să evite expunerea copiilor sub 2 ani la telefoane sau tablete, cu excepția apelurilor video cu familia. Expunerea timpurie la ecrane poate afecta dezvoltarea limbajului și a abilităților sociale.",
 			"source": ""
 		},
 		{
-			"id": "Q002",
+			"id": "QRO002",
 			"active": true,
-			"question": "Tinerii sunt din ce în ce mai expuși pericolelor digitale, dar care este grupa de vârstă cea mai afectată de cyberbullying?",
+			"question": "Ce efecte poate avea utilizarea excesivă a ecranelor asupra copiilor?",
 			"options": [
-				"6-18 ani",
-				"18-25 ani",
-				"Peste 25 de ani"
+				"Îmbunătățirea performanțelor școlare",
+				"Probleme de somn și concentrare",
+				"Creșterea interacțiunii sociale"
 			],
 			"answer": 2,
-			"explanation": "Persoanele cu vârsta între 18 și 25 de ani sunt cele mai afectate de cyberbullying.",
+			"explanation": "De cele mai multe ori, utilizarea excesivă a ecranelor sau tăierea accesului la telefon duce la sevraj psihologic – stări de anxietate, nervozitate, tristețe, tulburări de somn etc. Conform OMS, peste 22% dintre copiii români cu vârste între 11 și 15 ani suferă de sevraj psihologic, dublu față de rezultatele celorlalte țări analizate în studiu.",
 			"source": ""
 		},
 		{
-			"id": "Q003",
+			"id": "QRO003",
 			"active": true,
-			"question": "Ce procent dintre persoanele cu vârsta între 18 și 25 de ani afirmă că au fost victime ale cyberbullying-ului?",
+			"question": "Care dintre următoarele activități este cea mai benefică pentru dezvoltarea unui copil?",
 			"options": [
-				"40%",
-				"50%",
-				"60%"
+				"Timpul petrecut uitându-se la desene animate",
+				"Jocurile video educative",
+				"Cititul împreună cu părinții"
 			],
 			"answer": 3,
-			"explanation": "60% dintre persoanele cu vârsta între 18 și 25 de ani spun că au fost victime ale cyberbullying-ului.",
-			"source": "Sursa: Studiu realizat online de Audirep pentru Caisse d’Epargne și E-enfance între 8 mai și 3 iunie 2022, pe un eșantion de 1.209 tineri cu vârsta între 18 și 25 de ani."
+			"explanation": "Cititul împreună cu părinții stimulează dezvoltarea limbajului și a abilităților cognitive mai eficient decât conținutul digital.",
+			"source": "Descoperă.ro"
 		},
 		{
-			"id": "Q004",
+			"id": "QRO004",
 			"active": true,
-			"question": "Tinerii nu sunt doar victime ale cyberbullying-ului, unii dintre ei participă la acesta. Câți adolescenți sau copii recunosc că au cyberhărțuit pe cineva online?",
+			"question": "Copilul tău petrece peste 4 ore zilnic pe dispozitive electronice. Ce faci?",
 			"options": [
-				"1 din 8",
-				"1 din 10",
-				"1 din 50"
+				"Interzici complet utilizarea dispozitivelor.",
+				"Stabilești împreună cu el un program echilibrat de utilizare.",
+				"Ignori situația, este normal în zilele noastre."
+			],
+			"answer": 2,
+			"explanation": "Utilizarea excesivă a ecranelor poate duce la probleme de sănătate și la scăderea interacțiunilor sociale. Este esențial să stabilim limite clare împreună cu copilul și să încurajăm activități alternative.",
+			"source": ""
+		},
+		{
+			"id": "QRO005",
+			"active": true,
+			"question": "Observi că cel mic devine irascibil după sesiuni lungi de jocuri video. Ce faci?",
+			"options": [
+				"Îi interzici complet jocurile video.",
+				"Discuți cu el despre cum se simte și stabilești limite de timp pentru jocuri.",
+				"Ignori comportamentul, toți copiii reacționează așa."
+			],
+			"answer": 2,
+			"explanation": "Comunicarea deschisă și stabilirea unor limite sănătoase sunt esențiale pentru a preveni dependența de jocuri video și pentru a menține sănătatea emoțională. Echilibrul dintre activitățile online și cele fizice este esențial pentru cel mic.",
+			"source": ""
+		},
+		{
+			"id": "QRO006",
+			"active": true,
+			"question": "Cât de des vorbiți în familie despre ce face copilul online?",
+			"options": [
+				"Aproape zilnic",
+				"Doar când apare o problemă",
+				"Rar sau deloc"
 			],
 			"answer": 1,
-			"explanation": "",
-			"source": "Sursa: Al doilea volum al Studiului privind comportamentul copiilor de vârstă școlară în materie de sănătate (HBSC), referitor la formele de hărțuire și violență între adolescenți în 44 de țări și regiuni, publicat de OMS."
+			"explanation": "Este important să discutați regulat despre ce face cel mic în lumea digitală, nu doar atunci când apare o problemă. Întrebați-l ce a mai văzut interesant pe internet sau ce l-a supărat, pentru a construi o relație de încredere cu acesta.",
+			"source": ""
 		},
 		{
-			"id": "Q005",
+			"id": "QRO007",
 			"active": true,
-			"question": "Victimele cyberbullying-ului sunt cel mai adesea femei. Dar ai idee ce procent de femei sunt afectate?",
+			"question": "Cum arată cyberbullying-ul?",
 			"options": [
-				"51%",
-				"62%",
-				"85%"
+				"cineva care face glume pe internet, ca să agite spiritele.",
+				"cineva care încearcă să-ți fure datele online.",
+				"cineva care te hărțuiește, jignește și umilește online, în mod insistent."
 			],
 			"answer": 3,
-			"explanation": "85% dintre femei au fost deja victime ale violenței online, fie că este vorba de insulte, amenințări sau hărțuire.",
-			"source": "Sursa: Studiul «Measuring the prevalence of online violence against women» - the Economist Intelligence Unit, publicat în 2021."
+			"explanation": "Cyberbullying-ul este o formă de hărțuire online, prin care victima este umilită și jignită în mod insistent și constant de o persoană cunoscută sau nu. Din nefericire, cele mai multe victime ale cyberbullyingului sunt chiar copiii și adolescenții.",
+			"source": ""
 		},
 		{
-			"id": "Q006",
+			"id": "QRO008",
 			"active": true,
-			"question": "Adesea, hărțuirea online depășește ecranul. Știi câte victime ajung să fie amenințate în viața reală?",
+			"question": "Cum poate afecta cyberbullying-ul sănătatea emoțională a copilului tău?",
 			"options": [
-				"53%",
-				"65%",
-				"71%"
-			],
-			"answer": 3,
-			"explanation": "Pentru 71% dintre victime, cyberbullying-ul continuă și offline!",
-			"source": "Sursa: Raportul ONG-ului ADL «Hate is No Game: Harassment and Positive Social Experiences in Online Games» 2021."
-		},
-		{
-			"id": "Q007",
-			"active": true,
-			"question": "Un prieten sau o persoană apropiată îți vorbește despre mesaje amenințătoare și insulte pe care le primește. Ce număr poate apela?",
-			"options": [
-				"3018",
-				"3019",
-				"3030"
+				"îi scade stima de sine",
+				"se supără o săptămână, apoi uită",
+				"nu îl afectează cu nimic."
 			],
 			"answer": 1,
-			"explanation": "3018, gestionat de asociația e-Enfance, este numărul de apelat în caz de cyberbullying. Un serviciu gratuit și anonim care ajută victimele și martorii.",
+			"explanation": "Dacă cel mic este o victimă a hărțuirii online, este normal ca acesta să-și piardă stima de sine și încrederea. Este foarte important să-l ascultăm, să nu-l judecăm, să-i arătăm afecțiune și să-l învățăm ce atitudine să ia atunci când este victima bullyingului online.",
 			"source": ""
 		},
 		{
-			"id": "Q008",
+			"id": "QRO009",
 			"active": true,
-			"question": "Dai peste conținut șocant și ilegal online, ce faci?",
+			"question": "Ai setat control parental pe dispozitivele copilului?",
 			"options": [
-				"Raportează-l pe Pharos, o platformă de luptă împotriva cyberbullying-ului și a conținutului inadecvat.",
-				"Comentezi conținutul spunând că nu își are locul pe internet.",
-				"Pur și simplu ascunzi conținutul."
+				"Da",
+				"Nu, dar mă gândesc",
+				"Nu, îl/o las să decidă singur(ă)"
 			],
 			"answer": 1,
-			"explanation": "Pharos este platforma pentru raportarea conținutului ilegal. Este o modalitate rapidă și sigură de a elimina conținutul dăunător și nepotrivit.",
+			"explanation": "Setările de control parental te vor ajuta să te asiguri că cel mic navighează în siguranță în lumea digitală. Poartă o conversație deschisă cu copilul tău și ajută-l să înțeleagă de ce este o măsură importantă pentru siguranța sa online.",
 			"source": ""
 		},
 		{
-			"id": "Q009",
+			"id": "QRO010",
 			"active": true,
-			"question": "Ce sancțiune riscă o persoană majoră în caz de hărțuire morală online?",
+			"question": "Ce faci dacă afli că un coleg de clasă îți hărțuiește copilul pe grupul de WhatsApp?",
 			"options": [
-				"2 ani de închisoare și o amendă de 30.000 €",
-				"Interzicerea accesului timp de 6 luni pe platforma de pe care a comis infracțiunea.",
-				"Ambele"
+				"Îi spun copilului să ignore",
+				"Discut cu profesorul sau alt părinte",
+				"Îl/o las să rezolve singur(ă)"
 			],
-			"answer": 3,
-			"explanation": "Ambele!",
+			"answer": 2,
+			"explanation": "Primul pas este să salvezi mesajele sau screenshoturile cu dovezile hărțuirii și să vorbești cât mai repede cu profesorul sau cu părintele acelui copil, iar în cazurile grave, te poți adresa la poliție.",
 			"source": ""
 		},
 		{
-			"id": "Q010",
+			"id": "QRO011",
 			"active": true,
-			"question": "48% dintre jucători sunt, de fapt, jucătoare. Câte dintre ele adoptă strategii pentru a-și ascunde genul, pentru a evita să fie hărțuite?",
+			"question": "La ce vârstă i-ai oferi(t) copilului primul telefon?",
 			"options": [
-				"10%",
-				"25%",
-				"40%"
+				"Sub 8 ani",
+				"Între 9-12 ani",
+				"Peste 13 ani"
 			],
-			"answer": 3,
-			"explanation": "40% dintre jucătoare adoptă strategii, cum ar fi alegerea unui pseudonim masculin sau refuzul de a participa la chat-uri vocale, pentru a evita comentariile nepotrivite.",
-			"source": "Sursa: Studiu realizat de IFOP pentru GamerTop.fr între 17 și 23 martie 2023 prin chestionar autoadministrat pe un eșantion de 5.009 persoane, reprezentativ pentru populația franceză cu vârsta de peste 15 ani."
+			"answer": 2,
+			"explanation": "Vârsta optimă la care copilul tău este îndeajuns de pregătit pentru a primi un telefon este între 9 și 12 ani. Înainte să luați această decizie, luați în considerare nivelul de maturitate și de responsabilitate al copilului vostru.",
+			"source": ""
+		},
+		{
+			"id": "QRO012",
+			"active": true,
+			"question": "Cum gestionezi timpul petrecut în fața ecranelor?",
+			"options": [
+				"Avem reguli clare și pauze",
+				"Îi spun mereu când să se oprească",
+				"Fiecare face cum simte"
+			],
+			"answer": 1,
+			"explanation": "Este esențial să stabiliți împreună limite clare, sănătoase, astfel încât cel mic să se bucure de un stil de viață echilibrat. Ajutați-l să-și dea seama cum este cel mai bine pentru el să-și împartă timpul de joacă pe telefon/ tabletă sau computer.",
+			"source": ""
 		}
 	]
 }
