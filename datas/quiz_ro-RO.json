@@ -9,7 +9,7 @@
 				"Între 2 și 5 ani",
 				"După 5 ani"
 			],
-			"answer": 2,
+			"answer": 1,
 			"explanation": "Ministerul Educației recomandă părinților să evite expunerea copiilor sub 2 ani la telefoane sau tablete, cu excepția apelurilor video cu familia. Expunerea timpurie la ecrane poate afecta dezvoltarea limbajului și a abilităților sociale.",
 			"source": ""
 		},
@@ -132,7 +132,7 @@
 		},
 		{
 			"id": "QRO011",
-			"active": true,
+			"active": false,
 			"question": "La ce vârstă i-ai oferi(t) copilului primul telefon?",
 			"options": [
 				"Sub 8 ani",
