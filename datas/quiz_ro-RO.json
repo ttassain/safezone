@@ -1,6 +1,21 @@
 {
 	"questions": [
 		{
+			"id": "DROO013",
+			"active": true,
+			"question": "Ce vârstă ai?",
+			"options": [
+				"19 - 24 ani",
+				"25 – 35 ani",
+				"36 - 45 ani",
+				"46 - 55 ani",
+				"Peste 55 ani"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
 			"id": "DROO014",
 			"active": true,
 			"question": "Ești?",
@@ -8,6 +23,33 @@
 				"Bărbat",
 				"Femeie",
 				"alt gen"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
+			"id": "DROO015",
+			"active": true,
+			"question": "Care este mediul de proveniență?",
+			"options": [
+				"Urban",
+				"Rural"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
+			"id": "DROO016",
+			"active": true,
+			"question": "Care este ultima formă de studiu absolvită?",
+			"options": [
+				"Studii liceale",
+				"Studii postliceale",
+				"Studii universitare (licență)",
+				"Studii universitare complete (master)",
+				"Studii doctorale"
 			],
 			"answer": -1,
 			"explanation": "",
