@@ -1,6 +1,19 @@
 {
 	"questions": [
 		{
+			"id": "DROO014",
+			"active": true,
+			"question": "Ești?",
+			"options": [
+				"Bărbat",
+				"Femeie",
+				"alt gen"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
 			"id": "QRO001",
 			"active": true,
 			"question": "La ce vârstă este recomandat ca un copil să înceapă să folosească dispozitive digitale?",
