@@ -132,12 +132,12 @@
 		},
 		{
 			"id": "QRO011",
-			"active": false,
+			"active": true,
 			"question": "La ce vârstă i-ai oferi(t) copilului primul telefon?",
 			"options": [
-				"Sub 8 ani",
+				"Sub 5 ani",
 				"Între 9-12 ani",
-				"Peste 13 ani"
+				"Între 6-8 ani"
 			],
 			"answer": 2,
 			"explanation": "Vârsta optimă la care copilul tău este îndeajuns de pregătit pentru a primi un telefon este între 9 și 12 ani. Înainte să luați această decizie, luați în considerare nivelul de maturitate și de responsabilitate al copilului vostru.",
