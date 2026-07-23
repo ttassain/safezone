@@ -5,39 +5,14 @@
     <title>Safe Zone</title>
     <meta name="description" content="Explorez la Safe Zone, un espace interactif sécurisé.">
     <meta name="keywords" content="Safe Zone, Cyberharcèlement, harcèlement sur internet, Cyberbullying, Cyberharassment, Cyberstalking, Cyberintimidation">
-    <style>        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
- 
-        html, body {
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-        }
- 
-        iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-            display: block;
-        }
-    </style>
+    <script>
+        const userLang = navigator.language || navigator.userLanguage;
+        const URL_FR = "https://bienvivreledigital.orange.fr/societe/cyber-violences/safe-zone-orange-estival.html";
+        const URL_EN = "https://www.orange.com/en/whats-up/forgoodconnections-overview-our-actions";
+        const target = userLang.toLowerCase().startsWith("fr") ? URL_FR : URL_EN;
+        window.location.replace(target);
+    </script>
 </head>
 <body>
-    <iframe
-        id="safeZoneIframe"
-        allow="fullscreen; autoplay"
-        allowfullscreen>
-    </iframe>
-    <script>        
-        const userLang = navigator.language || navigator.userLanguage;        
-        const URL_FR = "https://bienvivreledigital.orange.fr/societe/cyber-violences/safe-zone-orange-estival.html";
-        const URL_EN = "https://www.orange.com/en/whats-up/forgoodconnections-overview-our-actions";        
-        const iframeSrc = userLang.toLowerCase().startsWith("fr") ? URL_FR : URL_EN;
-        document.getElementById("safeZoneIframe").src = iframeSrc;
-    </script>
 </body>
 </html>
