@@ -1,0 +1,215 @@
+{
+	"questions": [
+		{
+			"id": "QRO001",
+			"active": true,
+			"question": "La ce vârstă nu este recomandat ca un copil să înceapă să folosească dispozitive digitale?",
+			"options": [
+				"Sub 2 ani",
+				"Între 2 și 5 ani",
+				"După 5 ani"
+			],
+			"answer": 1,
+			"explanation": "Ministerul Educației recomandă părinților să evite expunerea copiilor sub 2 ani la telefoane sau tablete, cu excepția apelurilor video cu familia. Expunerea timpurie la ecrane poate afecta dezvoltarea limbajului și a abilităților sociale.",
+			"source": ""
+		},
+		{
+			"id": "QRO002",
+			"active": true,
+			"question": "Ce efecte poate avea utilizarea excesivă a ecranelor asupra copiilor?",
+			"options": [
+				"Îmbunătățirea performanțelor școlare",
+				"Probleme de somn și concentrare",
+				"Creșterea interacțiunii sociale"
+			],
+			"answer": 2,
+			"explanation": "De cele mai multe ori, utilizarea excesivă a ecranelor sau tăierea accesului la telefon duce la sevraj psihologic – stări de anxietate, nervozitate, tristețe, tulburări de somn etc. Conform OMS, peste 22% dintre copiii români cu vârste între 11 și 15 ani suferă de sevraj psihologic, dublu față de rezultatele celorlalte țări analizate în studiu.",
+			"source": ""
+		},
+		{
+			"id": "QRO003",
+			"active": true,
+			"question": "Care dintre următoarele activități este cea mai benefică pentru dezvoltarea unui copil?",
+			"options": [
+				"Timpul petrecut uitându-se la desene animate",
+				"Jocurile video educative",
+				"Cititul împreună cu părinții"
+			],
+			"answer": 3,
+			"explanation": "Cititul împreună cu părinții stimulează dezvoltarea limbajului și a abilităților cognitive mai eficient decât conținutul digital.",
+			"source": "Descoperă.ro"
+		},
+		{
+			"id": "QRO004",
+			"active": true,
+			"question": "Copilul tău petrece peste 4 ore zilnic pe dispozitive electronice. Ce faci?",
+			"options": [
+				"Interzici complet utilizarea dispozitivelor.",
+				"Stabilești împreună cu el un program echilibrat de utilizare.",
+				"Ignori situația, este normal în zilele noastre."
+			],
+			"answer": 2,
+			"explanation": "Utilizarea excesivă a ecranelor poate duce la probleme de sănătate și la scăderea interacțiunilor sociale. Este esențial să stabilim limite clare împreună cu copilul și să încurajăm activități alternative.",
+			"source": ""
+		},
+		{
+			"id": "QRO005",
+			"active": true,
+			"question": "Observi că cel mic devine irascibil după sesiuni lungi de jocuri video. Ce faci?",
+			"options": [
+				"Îi interzici complet jocurile video.",
+				"Discuți cu el despre cum se simte și stabilești limite de timp pentru jocuri.",
+				"Ignori comportamentul, toți copiii reacționează așa."
+			],
+			"answer": 2,
+			"explanation": "Comunicarea deschisă și stabilirea unor limite sănătoase sunt esențiale pentru a preveni dependența de jocuri video și pentru a menține sănătatea emoțională. Echilibrul dintre activitățile online și cele fizice este esențial pentru cel mic.",
+			"source": ""
+		},
+		{
+			"id": "QRO006",
+			"active": true,
+			"question": "Cât de des vorbiți în familie despre ce face copilul online?",
+			"options": [
+				"Aproape zilnic",
+				"Doar când apare o problemă",
+				"Rar sau deloc"
+			],
+			"answer": 1,
+			"explanation": "Este important să discutați regulat despre ce face cel mic în lumea digitală, nu doar atunci când apare o problemă. Întrebați-l ce a mai văzut interesant pe internet sau ce l-a supărat, pentru a construi o relație de încredere cu acesta.",
+			"source": ""
+		},
+		{
+			"id": "QRO007",
+			"active": true,
+			"question": "Cum arată cyberbullying-ul?",
+			"options": [
+				"cineva care face glume pe internet, ca să agite spiritele.",
+				"cineva care încearcă să-ți fure datele online.",
+				"cineva care te hărțuiește, jignește și umilește online, în mod insistent."
+			],
+			"answer": 3,
+			"explanation": "Cyberbullying-ul este o formă de hărțuire online, prin care victima este umilită și jignită în mod insistent și constant de o persoană cunoscută sau nu. Din nefericire, cele mai multe victime ale cyberbullyingului sunt chiar copiii și adolescenții.",
+			"source": ""
+		},
+		{
+			"id": "QRO008",
+			"active": true,
+			"question": "Cum poate afecta cyberbullying-ul sănătatea emoțională a copilului tău?",
+			"options": [
+				"îi scade stima de sine",
+				"se supără o săptămână, apoi uită",
+				"nu îl afectează cu nimic."
+			],
+			"answer": 1,
+			"explanation": "Dacă cel mic este o victimă a hărțuirii online, este normal ca acesta să-și piardă stima de sine și încrederea. Este foarte important să-l ascultăm, să nu-l judecăm, să-i arătăm afecțiune și să-l învățăm ce atitudine să ia atunci când este victima bullyingului online.",
+			"source": ""
+		},
+		{
+			"id": "QRO009",
+			"active": true,
+			"question": "Ai setat control parental pe dispozitivele copilului?",
+			"options": [
+				"Da",
+				"Nu, dar mă gândesc",
+				"Nu, îl/o las să decidă singur(ă)"
+			],
+			"answer": 1,
+			"explanation": "Setările de control parental te vor ajuta să te asiguri că cel mic navighează în siguranță în lumea digitală. Poartă o conversație deschisă cu copilul tău și ajută-l să înțeleagă de ce este o măsură importantă pentru siguranța sa online.",
+			"source": ""
+		},
+		{
+			"id": "QRO010",
+			"active": true,
+			"question": "Ce faci dacă afli că un coleg de clasă îți hărțuiește copilul pe grupul de WhatsApp?",
+			"options": [
+				"Îi spun copilului să ignore",
+				"Discut cu profesorul sau alt părinte",
+				"Îl/o las să rezolve singur(ă)"
+			],
+			"answer": 2,
+			"explanation": "Primul pas este să salvezi mesajele sau screenshoturile cu dovezile hărțuirii și să vorbești cât mai repede cu profesorul sau cu părintele acelui copil, iar în cazurile grave, te poți adresa la poliție.",
+			"source": ""
+		},
+		{
+			"id": "QRO011",
+			"active": true,
+			"question": "La ce vârstă i-ai oferi(t) copilului primul telefon?",
+			"options": [
+				"Sub 5 ani",
+				"Între 9 și 12 ani",
+				"Între 6 și 8 ani"
+			],
+			"answer": 2,
+			"explanation": "Vârsta optimă la care copilul tău este îndeajuns de pregătit pentru a primi un telefon este între 9 și 12 ani. Înainte să luați această decizie, luați în considerare nivelul de maturitate și de responsabilitate al copilului vostru.",
+			"source": ""
+		},
+		{
+			"id": "QRO012",
+			"active": true,
+			"question": "Cum gestionezi timpul petrecut în fața ecranelor?",
+			"options": [
+				"Avem reguli clare și pauze",
+				"Îi spun mereu când să se oprească",
+				"Fiecare face cum simte"
+			],
+			"answer": 1,
+			"explanation": "Este esențial să stabiliți împreună limite clare, sănătoase, astfel încât cel mic să se bucure de un stil de viață echilibrat. Ajutați-l să-și dea seama cum este cel mai bine pentru el să-și împartă timpul de joacă pe telefon/ tabletă sau computer.",
+			"source": ""
+		},
+		{
+			"id": "DROO013",
+			"active": true,
+			"question": "Ce vârstă ai?",
+			"options": [
+				"19 - 24 ani",
+				"25 – 35 ani",
+				"36 - 45 ani",
+				"46 - 55 ani",
+				"Peste 55 ani"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
+			"id": "DROO014",
+			"active": true,
+			"question": "Ești?",
+			"options": [
+				"Bărbat",
+				"Femeie",
+				"alt gen"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
+			"id": "DROO015",
+			"active": true,
+			"question": "Care este mediul de proveniență?",
+			"options": [
+				"Urban",
+				"Rural"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		},
+		{
+			"id": "DROO016",
+			"active": true,
+			"question": "Care este ultima formă de studiu absolvită?",
+			"options": [
+				"Studii liceale",
+				"Studii postliceale",
+				"Studii universitare (licență)",
+				"Studii universitare complete (master)",
+				"Studii doctorale"
+			],
+			"answer": -1,
+			"explanation": "",
+			"source": ""
+		}
+	]
+}
